@@ -1,0 +1,11 @@
+timezone: UTC
+state_duration_hours: 1
+return_period_years:
+  - 1
+  - 50
+  - 100
+smoke_primary_var: 10米风速
+smoke_secondary_var: 有义波高
+smoke_max_rows: 120000
+smoke_random_seed: 42
+smoke_n_points: 180

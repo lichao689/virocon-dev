@@ -1,0 +1,5 @@
+repo_root: /Users/lichao/codes/_github/virocon-dev
+data_root: /Users/lichao/codes/_github/virocon-dev/data/Data-MarineDataGroupLimited
+metocean_csv: /Users/lichao/codes/_github/virocon-dev/data/Data-MarineDataGroupLimited/metocean_result.csv
+current_csv: /Users/lichao/codes/_github/virocon-dev/data/Data-MarineDataGroupLimited/current_result.csv
+output_dir: /Users/lichao/codes/_github/virocon-dev/dev-info/marine_analysis/output
